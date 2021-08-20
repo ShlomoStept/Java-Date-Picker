@@ -11,3 +11,6 @@ This repository contains both:
 ##### (A) Component Sizes
 ##### (B) The Color Scheme, and
 ##### (C) Font Styles and Size 
+
+## Screenshot
+![Overview](https://raw.githubusercontent.com/HanSolo/jdp/master/jdp.png)
