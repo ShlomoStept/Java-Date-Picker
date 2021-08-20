@@ -13,4 +13,4 @@ This repository contains both:
 ##### (C) Font Styles and Size 
 
 ## Screenshot
-![Overview](https://raw.githubusercontent.com/HanSolo/jdp/master/jdp.png)
+![Overview](https://github.com/ShlomoStept/Java-Date-Picker/blob/main/Stand%20Along%20Date%20Picker%20Program/standalone.png)
